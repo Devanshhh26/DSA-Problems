@@ -1,0 +1,4 @@
+1. Odd number ki rightmost bit humesha one hoti hai 
+2. agar kisi bhi number ka 1 se & karenge aur agar ans 1 aaya to odd number tha vo aur agar 0 aaya to even number tha vo
+3. kisi bit ko agar 1 is add karte hai to vo vahi bit answer me mil jaati hai eg-> 0 & 1 = 0   ,   1 & 1 = 1
+4. n & n-1 = 0   also removes last set bit

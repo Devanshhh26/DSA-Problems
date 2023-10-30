@@ -1,0 +1,25 @@
+max heap me parent apne dono child se bada hoga 
+min heap me parent apne dono child se chota hoga
+
+----------------------------------------------------------------
+agar 1 based indexing hai:
+
+parent = i 
+
+leftChild = 2i
+
+rightChild = 2i+1
+
+----------------------------------------------------------------
+
+agar 0 based indexing hai:
+
+parent = i
+
+leftChild = 2i+1
+
+rightChild = 2i+2
+
+----------------------------------------------------------------
+
+agar child i se parent me jana ho to i/2

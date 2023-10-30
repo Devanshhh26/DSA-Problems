@@ -1,0 +1,27 @@
+There are 3 ways to solve a DP problem
+
+-----------------------------------------------------------------------------------------------------
+Method 1:   Top Down Approach   (It is a recursive approach)
+
+In this approach we first need to create a recursive solution
+Step 1: create DP array
+step 2: replace all the return ans or stored ans with dp array
+step 3: after the base case create another if condition to check if the answer already exist
+
+-----------------------------------------------------------------------------------------------------
+
+Method 2:   Bottom Up Approach  (It is an iterative approach)   (It is better than Top down approach)
+
+This approach is easy to implement if we already have the top down approach answer
+
+Step 1: create a DP array
+Step 2: top down approach ke base condition ke basis me elements ko dp array me add karo
+Step 3: For loop chalao dp array ko fill karne ke lie aur loop kaha se kaha tak chalega vo on the basis of
+        top down approach pata chalega 
+
+-----------------------------------------------------------------------------------------------------
+
+Method 3: Space Optimization
+
+In this approach we try ko reduce the size of DP array if possible or completely replace the DP array with variable 
+to reduce the size.

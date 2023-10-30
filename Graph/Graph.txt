@@ -1,0 +1,35 @@
+Graph are of 2 types 1. Directed 2. Undirected
+
+Acyclic Graph: that does not form a cycle
+Cyclic Graph: that forms a cycle
+
+degree: no. of edges connected to a nodes
+
+indegree: no. of edges coming to a nodes
+outdegree: no. of edges going out of the node
+
+
+
+Graph can be implemented int two ways 
+
+1. using adjacency matrix-->2D matrix
+2. using adjacency list-->map/vector/set/list
+
+
+adjacency matrix : nxn ka matrix banao fir agar do nodes ke beech me edge hai to 1 mark kardo else 0
+
+0---------1          
+|       / |
+|     /   |
+|   /     |
+| /       |
+2         3
+
+iss Graph ki adjacency matrix banegi
+
+    {0,1,1,0}
+    {1,0,1,1}
+    {1,1,0,0}
+    {0,1,0,0}
+
+adjacency list: isme har node ke corresponding ek list banaenge jisme jis jis element ke sath uski edge hai vo honge
