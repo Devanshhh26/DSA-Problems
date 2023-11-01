@@ -1,0 +1,2 @@
+// iska matlab array monotonically increasing aur fir monotonically decreasing hai aur hume elemnt find karna hai
+// iss question ko solve karne ke lie hum pehle pivot/peak element nikal lenge aur uske baad dono array me binary search laga denge 
