@@ -14,7 +14,7 @@ void solve(int arr[],int n, int k ) {
 
         //remaining window ko process kro
         for(int i=k; i<n; i++) {
-                //answer dedo purani wondow ka 
+                //answer dedo purani window ka 
                 if(q.empty()) {
                         cout << 0 << " ";
                 }

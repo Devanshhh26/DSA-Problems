@@ -7,7 +7,7 @@
 /*
   void combinationSum_helper(vector<int>&candidate,int target,vector<int>&v,vector<vector<int>>&ans,int index)
     {
-        if(target<0)                                            // agar target less than 0 ho jae to return kar denge i.e. it is no t a possible solution
+        if(target<0)                                            // agar target less than 0 ho jae to return kar denge i.e. it is not a possible solution
         {
             return;
         }

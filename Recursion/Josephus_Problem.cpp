@@ -3,7 +3,7 @@
 // but 40 logo me ek end me banda bachega jise suicide karna padega to end me kaun bachna chahega
 // tab josephus aaya aur bola hum sab ek circle me khade ho jaate hai fir count karenge 7 tak aur jisme bhi 7 aaya use maar denge 
 // aur aur fir count uske next person se restart karenge, jab yeh process pura ho jata hai to end me josephus bachta hai
-// aur josephus surreneder kar deta hai suicide ki jagah , log kehte hai usne yeh jaanboojhkar kia tha aur usne pehl ehi calculate kar 
+// aur josephus surreneder kar deta hai suicide ki jagah , log kehte hai usne yeh jaanboojhkar kia tha aur usne pehle hi calculate kar 
 // lia tha ki kaunse number pe vo khada hoga to vo end me zinda bachega recursion ke through
 
 // ab hume vo position find karni hai initial circle me ki jisme khade honge to end tak bachenge

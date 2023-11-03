@@ -26,7 +26,7 @@ void countArrangement(vector<int>&v,int& ans,int& n,int currNum)
 int main()
 {
     int n=10;
-    vector<int>v(n+1);                          // vector bataega kis position me rakha hai aur jab hu m vector ki aese size define karte hai to har index pe automatically 0 assign ho jata hai
+    vector<int>v(n+1);                          // vector bataega kis position me rakha hai aur jab hum vector ka aese size define karte hai to har index pe automatically 0 assign ho jata hai
     int ans=0;
     countArrangement(v,ans,n,1);
     cout<<ans;
